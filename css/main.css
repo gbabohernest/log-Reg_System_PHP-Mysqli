@@ -1,0 +1,17 @@
+div .home {
+  min-height: 20vh;
+  background-color: lightgrey;
+  border-right: 1px solid white;
+  margin: 2px;
+}
+
+p {
+  color: red;
+  text-align: center;
+  font-weight: bold;
+}
+h5 {
+  color: green;
+  text-align: center;
+  font-weight: bold;
+}
